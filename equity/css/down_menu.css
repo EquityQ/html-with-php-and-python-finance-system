@@ -1,0 +1,25 @@
+.down_a{
+        color: rgba(134, 134, 134, 0.555);
+        text-decoration: none;
+        font-family: Microsoft Yahei;
+        font-size: 10;
+        position: fixed;
+        bottom: 10;
+        left: 50%;
+    }
+    .down_a:hover{color: gray;}
+.equity_down_menu{
+        position: fixed;
+        bottom: 0;
+       background-color: white;
+       height: 50px;
+       width: 100%;
+    }
+    .down_p{
+        color: rgba(134, 134, 134, 0.555);
+        font-family: Microsoft Yahei;
+        font-size: 10;
+        position: fixed;
+        bottom: 0;
+        left: 50%;
+    }
