@@ -1,0 +1,60 @@
+.equity_mid_search{
+    position: absolute;
+    background-color: white;
+    height: 700;
+    width: 100%;
+}
+.mid_div{
+    background-color: white;
+    height: 60;
+    margin:0 auto;
+    width: 750px;
+    margin-top: 15%;
+    border-radius: 10px;
+    border-color: turquoise;
+    border-style: solid;
+    border-width: 2;
+}
+.mid_a{
+    text-decoration: none;
+    font-family: Microsoft Yahei;
+    font-size: 20;
+    color: black;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 42;
+}
+.mid_div_2{
+    background-color: rgb(22, 150, 255);
+    height: 62;
+    width: 150px;
+    position: absolute;
+    border-radius: 10px;
+    margin-left: 602px;
+    margin-top: -1px;
+    cursor: pointer;
+}
+.mid_div_1{
+    background-color: rgb(22, 150, 255);
+    width: 9px;
+    height: 62;
+}
+.mid_input{
+    border-radius: 10px;
+    height: 60;
+    width: 590;
+    margin-left: 5px;
+    border: 0;
+    outline: none;
+    font-family: Microsoft Yahei;
+    font-size: 30;
+    text-align: center;
+}
+.logo{
+    position:absolute;
+    left: 50%;
+    margin-left: -140px;
+    height: 200px;
+    width: auto;
+    margin-top: -220px;
+}
