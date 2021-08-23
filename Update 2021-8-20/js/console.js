@@ -1,1 +1,0 @@
-console.log('每一个梦想都值得被尊重， \n每一个脚印都是梦想的基石。 \n%cequity 2021招募计划! \nEmail：qingyimingyue@163.com','color: red')
